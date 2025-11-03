@@ -1,0 +1,15 @@
+# Core data analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Database connectivity
+sqlalchemy
+psycopg2-binary
+
+# Environment and notebook support
+jupyter
+ipykernel
